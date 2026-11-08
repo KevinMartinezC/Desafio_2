@@ -1,0 +1,5 @@
+# Archivos de compilación y preferencias locales de Visual Studio
+**/bin/
+**/obj/
+**/.vs/
+*.dwproj.user
